@@ -1,2 +1,1 @@
-Contenu initial de feature1
-Changement sur feature1
+Changement sur feature1 et Changement sur feature2
